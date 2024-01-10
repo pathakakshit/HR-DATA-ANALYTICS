@@ -10,3 +10,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
+
+For Better Visulaization and easy understanding I have also created a power bi dasboard using the same data set. 
+Please check it out at: https://app.powerbi.com/groups/me/reports/ad27f46b-19a4-45db-989f-6e393d6622da/ReportSection?experience=power-bi
